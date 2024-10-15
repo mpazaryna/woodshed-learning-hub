@@ -34,4 +34,11 @@
 
 - **Date Explored**: 2023-10-15
 
+## Resources
+
+- [LangChain Documentation](https://python.langchain.com/en/latest/index.html)
+- [LangChain GitHub Repository](https://github.com/hwchase17/langchain)
+- [LangChain Discord Community](https://discord.gg/6adMQxSpJS)
+
+
 For more detailed notes and examples, see [notes/tools/langchain-exploration.md](notes/tools/langchain-exploration.md)
