@@ -40,5 +40,4 @@
 - [LangChain GitHub Repository](https://github.com/hwchase17/langchain)
 - [LangChain Discord Community](https://discord.gg/6adMQxSpJS)
 
-
-For more detailed notes and examples, see [notes/tools/langchain-exploration.md](notes/tools/langchain-exploration.md)
+For more detailed notes and examples, see [woodshed-ai/langchain](https://github.com/mpazaryna/woodshed-ai/tree/main/langchain)
