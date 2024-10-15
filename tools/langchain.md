@@ -3,7 +3,10 @@
 - **URL**: [https://langchain.com/](https://langchain.com/)
 - **Category**: Development Framework, AI Integration
 - **Date Explored**: 2023-10-15
-- **Description**: LangChain is an open-source development framework for building applications powered by language models. It facilitates the creation of context-aware, reasoning-based applications by providing tools to integrate large language models (LLMs) with external data sources and computational resources.
+
+## Description
+
+LangChain is an open-source development framework for building applications powered by language models. It facilitates the creation of context-aware, reasoning-based applications by providing tools to integrate large language models (LLMs) with external data sources and computational resources.
 
 ## Key Features
 
