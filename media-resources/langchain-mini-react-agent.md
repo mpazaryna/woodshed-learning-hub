@@ -2,7 +2,6 @@
 
 - **URL**: [YouTube link](https://youtu.be/pEMhPBQMNjg?si=uSlnpIkDRu2vCNKl)
 - **Creator**: Sam Witteveen
-- **Duration**: [Not provided, you can add this when you have the information]
 - **Date Watched**: 2024-10-15
 - **Colab Notebook**: [Colab Notebook](https://drp.li/SYckW)
 
@@ -18,4 +17,4 @@ This video demonstrates how to build a ReAct Mini Agent using LangGraph's ReAct 
 
 ## Personal Notes
 
-[Add your personal thoughts, insights, or questions after watching the video]
+- This is a small proof of concept Colab notebook.
